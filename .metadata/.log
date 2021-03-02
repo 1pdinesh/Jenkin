@@ -6129,3 +6129,67 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 
 !ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:06:39.954
 !MESSAGE Started WebLogic Server Monitor [test@localhost:7001, Version:12.2.1.3.0]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:13:03.757
+!MESSAGE Server watcher[Oracle WebLogic Server 12c R2 (12.2.1.3) [test]]:running Weblogic detected, validating...
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:13:07.360
+!MESSAGE JMX Connection created to WebLogic Server @:[service:jmx:t3://localhost:7001/jndi/weblogic.management.mbeanservers.domainruntime]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:13:17.662
+!MESSAGE Creating Deployment manager...
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:13:17.663
+!MESSAGE Elapsed time 10113ms
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:13:17.665
+!MESSAGE Deployment manager created :[Oracle WebLogic Server 12c R2 (12.2.1.3) [test] t3://localhost:7001]@183710137
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:13:18.050
+!MESSAGE Releasing deployment manager :[Oracle WebLogic Server 12c R2 (12.2.1.3) [test]]@183710137
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:14:51.675
+!MESSAGE Publishing beginning.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:14:51.752
+!MESSAGE Module not changed:[MyEJB]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:14:51.754
+!MESSAGE Module not changed:[MyEJB,EJBProject]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:14:51.755
+!MESSAGE Module not changed:[MyEJB,MyWebApp]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:14:51.757
+!MESSAGE Module not changed:[MyEJB,EJBProjectClient]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:14:51.758
+!MESSAGE Total deleted modules: 0
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:14:52.247
+!MESSAGE Module Status: -MyEJB
+--EJBProject
+---MyWebApp
+----EJBProjectClient
+
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:14:52.254
+!MESSAGE Publishing finished.
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:16:44.351
+!MESSAGE Server watcher[Oracle WebLogic Server 12c R2 (12.2.1.3) [test]]:running Weblogic detected, validating...
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:16:46.666
+!MESSAGE JMX Connection created to WebLogic Server @:[service:jmx:t3://localhost:7001/jndi/weblogic.management.mbeanservers.domainruntime]
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:16:53.494
+!MESSAGE Creating Deployment manager...
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:16:53.497
+!MESSAGE Elapsed time 6700ms
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:16:53.499
+!MESSAGE Deployment manager created :[Oracle WebLogic Server 12c R2 (12.2.1.3) [test] t3://localhost:7001]@2038474338
+
+!ENTRY oracle.eclipse.tools.weblogic 1 2000 2021-03-02 16:16:53.755
+!MESSAGE Releasing deployment manager :[Oracle WebLogic Server 12c R2 (12.2.1.3) [test]]@2038474338
