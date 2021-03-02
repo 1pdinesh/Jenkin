@@ -1,0 +1,6 @@
+C\:/Users/Asus/eclipse-workspace/MyEJB/EarContent/APP-INF/classes = APP-INF/classes
+C\:/Users/Asus/eclipse-workspace/EJBProject/build/classes = EJBProject.jar
+C\:/Users/Asus/eclipse-workspace/EJBProjectClient/build/classes = APP-INF/lib/EJBProjectClient.jar
+C\:/Users/Asus/eclipse-workspace/MyWebApp/WebContent = MyWebApp.war
+C\:/Users/Asus/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/MyWebApp/build/weboutput = MyWebApp.war
+C\:/Users/Asus/eclipse-workspace/MyWebApp/build/classes = MyWebApp.war/WEB-INF/classes

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Testing">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="TestingWeb.war" deploy-path="/" handle="module:/resource/TestingWeb/TestingWeb">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="TestingClient.jar" deploy-path="/" handle="module:/resource/TestingClient/TestingClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="TestingConnector.rar" deploy-path="/" handle="module:/resource/TestingConnector/TestingConnector">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="TestingEJB.jar" deploy-path="/" handle="module:/resource/TestingEJB/TestingEJB">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

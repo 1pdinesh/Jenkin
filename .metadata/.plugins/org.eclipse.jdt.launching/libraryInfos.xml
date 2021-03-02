@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\Asus\Downloads\Compressed\eclipse-java-2020-12-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507" version="15.0.1"/>
+<libraryInfo home="C:\java" version="1.8.0_181">
+<bootpath>
+<entry path="C:\java\jre\lib\resources.jar"/>
+<entry path="C:\java\jre\lib\rt.jar"/>
+<entry path="C:\java\jre\lib\sunrsasign.jar"/>
+<entry path="C:\java\jre\lib\jsse.jar"/>
+<entry path="C:\java\jre\lib\jce.jar"/>
+<entry path="C:\java\jre\lib\charsets.jar"/>
+<entry path="C:\java\jre\lib\jfr.jar"/>
+<entry path="C:\java\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\java\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\java\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="D:\Asus\Downloads\Compressed\eclipse-java-2020-12-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\jre" version="15.0.1"/>
+</libraryInfos>
